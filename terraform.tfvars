@@ -1,0 +1,6 @@
+resource_group_name        = "devmyrg"
+location                  = "East US"
+storage_account_name      = "devmysa"
+container_name            = "devmycont"
+blob_name                 = "devmyblob.zip"
+source_file               = "./test.txt"
